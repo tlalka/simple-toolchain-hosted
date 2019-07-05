@@ -12,7 +12,7 @@ template:
     $ref: "#/messages/template.description"
     #template descriptions now vary depending on the flavor of source provider selected
     #$ref: '#/messages/template.description'
-  header: '![](custo,_toolchain.png)'
+  header: '![](custom_toolchain.png)'
   icon: icon.svg
   required:
     - sample-build
