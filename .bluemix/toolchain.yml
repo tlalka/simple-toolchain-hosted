@@ -1,6 +1,9 @@
 version: '2'
 messages:
   $i18n: locales.yml
+messaging:
+  service_id: slack
+  $ref: slack.yml
 template:
   name:
     $ref: "#/messages/template.name"
