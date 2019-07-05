@@ -17,9 +17,9 @@ template:
   info:
     #original static git url and branch string definitions
     #git url: >-
-    #  [https://github.com/open-toolchain/simple-toolchain-hosted](https://github.com/open-toolchain/simple-toolchain-hosted)
+    #  [https://github.com/tlalka/simple-toolchain-hosted](https://github.com/open-toolchain/simple-toolchain-hosted)
     #git branch: >-
-    #  [master](https://github.com/open-toolchain/simple-toolchain-hosted/tree/master)
+    #  [master](https://github.com/tlalka/simple-toolchain-hosted/tree/master)
     
     # compute the git url and branch values dynamically so that they remain correct when repo is forked etc. 
     # note: `repository` url param must always be provided while the `branch` url param is optional
